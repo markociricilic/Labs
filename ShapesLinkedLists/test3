@@ -1,0 +1,23 @@
+shape a ellipse 1 1 1 1
+shape b rectangle 1 2 3 4
+shape c triangle 2 2  2 2  
+shape d ellipse 4 4 2 3
+group g1
+group g2
+group g3
+delete c
+move a g1
+move b g2 
+---
+move c g4
+move d g3 
+draw
+delete g3
+move c g3
+move d pool
+move d pool
+group g3
+move d g3
+delete g2
+draw
+---
