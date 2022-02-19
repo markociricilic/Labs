@@ -1,0 +1,55 @@
+shape a ellipse 1 1 1 1
+shape a rectangle 1 1 1 1
+shape b ellipse 300 21233 42310 9392
+shape c2d ellipse	2020	20 2020	10
+shape cool-aid triangle 123 292 192 	291
+shape cool_aid rectangle 0 0 0 0
+shape manifest^Z ellipse 23 234 22 12
+group g1
+group g-1
+group g11-
+group g---11
+group g^Z
+group $sign
+draw
+move a g1
+move b g1
+move c2d g1
+move cool-aid $sign
+move cool_aid $sign
+move manifest^Z g^Z
+draw
+delete g1
+move b g1
+delete manifest^Z
+draw
+delete g^Z
+draw
+shape manifest^Z triangle 23 234 22 12
+draw
+move manifest^Z g^Z
+draw
+delete g^Z
+draw
+delete g-1
+draw
+move c2d g-1
+draw
+delete g-1
+draw
+draw
+draw
+move c2d g11-
+draw
+delete c2d
+draw
+delete g11-
+delete $sign
+draw
+delete a
+delete b
+draw
+move cool_aid g---11
+draw
+delete g---11
+draw
