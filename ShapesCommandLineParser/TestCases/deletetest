@@ -1,0 +1,12 @@
+maxShapes 20
+
+create a circle 20 20 20 20
+create b rectangle 20 10 20 30
+create c circle 20 20 20 10
+create d ellipse 20 102  30 20
+create e triangle 20 213 03 2
+draw all
+delete c
+draw all
+create f ellipse 203 023 20 1
+draw all
