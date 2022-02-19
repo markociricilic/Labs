@@ -1,0 +1,16 @@
+maxShapes 1
+create a rectangle 1 2 3 4
+draw all
+delete all
+create a rectangle 1 2 3 4
+draw all
+maxShapes 0
+draw all
+delete all
+---
+create a circle 1 2 3 4d
+---
+move circle 1 2
+---
+
+create

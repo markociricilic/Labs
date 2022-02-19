@@ -1,0 +1,13 @@
+maxShapes 20
+create a triangle 20 10 5 4
+draw a
+rotate a 20
+draw a
+rotate a 180
+draw a
+rotate a -20
+draw a
+rotate a 360
+draw a
+rotate a 0
+draw a

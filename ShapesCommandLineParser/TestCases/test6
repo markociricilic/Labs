@@ -1,0 +1,44 @@
+create a sd20 230 203 10
+remote 02
+
+20 a circle 20 20 20
+create ligma 20 20 20 20
+create a ligma 20 202 02 02
+create -2 02  d20
+create a circle 20 20 20 20
+delete a
+draw all
+draw a
+delete a
+delete all
+ove a 20 a
+move a 20 -s
+rotate all -2 
+assume 20
+draw all
+maxShapes 20
+create a circle 20 20 10 20
+create a cir 2 a -s
+create a circle 20 20 20 20 20
+create a circle 20 20 20 20
+create b rectangle 20 20 20 20
+delete a
+draw all
+create c ellipse 20 10 03 2  	 	 		
+draw all
+maxShapes -2
+maxShapes 20
+draw all
+maxShapes 20
+draw all
+create a circle 20 20 20 20
+move a -102 20
+move a 2 010
+move a 230 1 a0 a2
+move a 20s -2
+move a -20 a
+move a 20 20 20
+draw all
+delete all
+draw all
+

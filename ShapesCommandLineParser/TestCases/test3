@@ -1,0 +1,16 @@
+create a ellipse 20 20 20 20
+delete a
+maxShapes 20
+maxShapse -10
+maxShapes -10
+maxShapes -102a
+maxShapes 23.4a
+maxShapes 10
+maxShapes 08
+draw all
+draw a
+delete all
+delete a
+create a circle 20 20 20 20
+create a ellasd 20 20 20 20
+create l 20 a 20 3

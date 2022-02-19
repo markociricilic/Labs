@@ -1,0 +1,5 @@
+maxShapes 20
+create a circle 10 20 20 20
+create b circle 20 10 20 20
+create c circle 20 20 10 20
+create d circle 20 20 20 10

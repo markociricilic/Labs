@@ -1,0 +1,21 @@
+maxShapes 5
+create circle ellipse 20 20 20 20
+create a ellipse 20 20 20 20 20
+create c circle 20 1 20 3
+create c circle -20 2 20 20
+create c circle 20 20 20 20
+create a triangle 20 20 20 20
+create t triangle 1 2 3 4
+rotate t 120
+move t 20 20 
+draw all
+create b ellipse 20 20 20 20
+create d ellipse 10 10 10 10
+create l ellipse 20 30 20 10
+draw all
+delete b
+draw all
+draw a
+draw c
+maxShapes 20
+draw all

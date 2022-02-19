@@ -1,0 +1,4 @@
+maxShapes 20
+reduce
+create 4 circle 20 10 20 30 
+create 4 circle 20 20 20 20
