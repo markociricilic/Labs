@@ -8,7 +8,7 @@
  */
 
 #include <stdio.h>
-// #include "project_reversi_skeleton.h" // DO NOT modify this line
+#include "project_reversi_skeleton.h" // DO NOT modify this line
 
 // ========= Function implementation ==========
 /*
